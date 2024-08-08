@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Shariksofi
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning to hack
-- 💞️ I’m looking to collaborate on termux
+============MrHackEr============
 
 
 <!---
